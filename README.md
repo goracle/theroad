@@ -6,7 +6,7 @@ Forked!\
 But sorry, I could not travel both\
 Long I stood\
 And looked down 1 so far I could\
-see where it forked through overgrowth;\
+To see where it forked through overgrowth;\
 \
 Then took the other, just as good,\
 And having perhaps the better claim,\
@@ -27,4 +27,3 @@ This tale I will condense:\
 10 roads diverged in a yellowed wood, and aye—\
 I took the road I travelled by,\
 `goto 10\
-\
